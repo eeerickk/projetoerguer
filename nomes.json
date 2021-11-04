@@ -1,12 +1,12 @@
 [
   {
-    "Nome": "Amanda"
+    "Nome": "Enzo"
   },
   {
     "Nome": "Bruna"
   },
   {
-    "Nome": "Erick"
+    "Nome": "Diego"
   },
   {
     "Nome": "Michelle"
@@ -22,5 +22,8 @@
   },
   {
     "Nome": "Paula"
+ },
+  {
+    "Nome": "Amanda"
   }
 ]
