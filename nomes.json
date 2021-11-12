@@ -1,14 +1,38 @@
 [
-  {
-    "Nome": "Enzo"
-  },
-  {
-    "Nome": "Pedro"
-  },
-  {
-    "Nome": "Carlos"
-  },
-  {
-    "Nome": "Laura"
-  }
+   {
+      "Aplicador": "Arthur"
+   },
+   {
+      "Aplicador": "Elondark"
+   },
+   {
+      "Aplicador": "Erick"
+   },
+   {
+      "Aplicador": "Felipe"
+   },
+   {
+      "Aplicador": "Graziele"
+   },
+   {
+      "Aplicador": "João"
+   },
+   {
+      "Aplicador": "Laís"
+   },
+   {
+      "Aplicador": "Laureciane"
+   },
+   {
+      "Aplicador": "Marcel"
+   },
+   {
+      "Aplicador": "Micael"
+   },
+   {
+      "Aplicador": "Tainá"
+   },
+   {
+      "Aplicador": "Outro (a)"
+   }
 ]
